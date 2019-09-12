@@ -17,7 +17,7 @@ class NovaConsumerPlugin {
         novas.forEach((nova) => {
           if (nova.entry) {
             const { port } = new url.URL(nova.entry);
-            entry['nova-consumer'].push(`webpack-nova-consumer/client?port=${port}`);
+            entry['nova-consumer'].push(`@ara/webpack-nova-consumer/client?port=${port}`);
           }
         });
       });
