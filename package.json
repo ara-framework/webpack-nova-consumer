@@ -1,6 +1,6 @@
 {
   "name": "@ara/webpack-nova-consumer",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -10,12 +10,16 @@
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint-plugin-import": "^2.18.2",
+    "semantic-release": "^15.13.24"
   },
   "dependencies": {
     "sockjs-client": "^1.4.0"
   },
   "peerDependencies": {
     "html-webpack-plugin": "^3.0.1"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
   }
 }
