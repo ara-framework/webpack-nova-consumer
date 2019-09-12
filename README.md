@@ -1,6 +1,6 @@
 # webpack-nova-consumer
 
-This webpack plugin enable us to add external links from Nova bundles inside the page using the `html-webpack-plugin` hooks.
+This webpack plugin enables to add external links from Nova bundles inside the consumer pages using the `html-webpack-plugin` hooks.
 
 
 ## Install
