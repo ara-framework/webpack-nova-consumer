@@ -21,5 +21,8 @@
   },
   "scripts": {
     "semantic-release": "semantic-release"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
