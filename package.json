@@ -1,0 +1,21 @@
+{
+  "name": "webpack-nova-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/ara-framework/webpack-nova-consumer",
+    "type": "git"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "sockjs-client": "^1.4.0"
+  },
+  "peerDependencies": {
+    "html-webpack-plugin": "^3.0.1"
+  }
+}
