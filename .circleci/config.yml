@@ -11,3 +11,12 @@ jobs:
       - run:
           name: release
           command: npm run semantic-release || true
+
+workflows:
+  version: 2
+  main:
+    jobs:
+    - build
+        filters:
+          branches:
+            only: master
