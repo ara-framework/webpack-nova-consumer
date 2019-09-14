@@ -51,4 +51,4 @@ Example using [nova-vue-bridge](https://www.npmjs.com/package/nova-vue-bridge):
 </template>
 ```
 
-The entry point `http://localhost:8080/client.js` is loaded when Vue.js mounts the previous component.
+The entry point `http://localhost:8080/client.js` is loaded when Vue.js mounts the example component above.
