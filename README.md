@@ -6,7 +6,7 @@ This webpack plugin enables to add external links from Nova bundles inside the c
 ## Install
 
 ```shell
-npm i --save-dev webpack-nova-consumer
+npm i --save-dev @ara/webpack-nova-consumer
 ```
 
 ## Usage
@@ -51,4 +51,4 @@ Example using [nova-vue-bridge](https://www.npmjs.com/package/nova-vue-bridge):
 </template>
 ```
 
-The entry point `http://localhost:8080/client.js` is loaded when Vue.js mounts the previous component.
+The entry point `http://localhost:8080/client.js` is loaded when Vue.js mounts the example component above.
