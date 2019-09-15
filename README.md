@@ -6,7 +6,7 @@ This webpack plugin enables to add external links from Nova bundles inside the c
 ## Install
 
 ```shell
-npm i --save-dev webpack-nova-consumer
+npm i --save-dev @ara/webpack-nova-consumer
 ```
 
 ## Usage
