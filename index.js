@@ -57,4 +57,4 @@ class NovaConsumerPlugin {
   }
 }
 
-export default NovaConsumerPlugin;
+module.exports = NovaConsumerPlugin;
