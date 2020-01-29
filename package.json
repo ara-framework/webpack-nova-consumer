@@ -11,7 +11,7 @@
     "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "semantic-release": "^15.13.24"
+    "semantic-release": "^17.0.1"
   },
   "dependencies": {
     "sockjs-client": "^1.4.0"
